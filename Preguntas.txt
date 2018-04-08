@@ -1,5 +1,7 @@
 
 Ideas para preguntas a responder en el TP1:
 
-
-- 
+- Ver historicamente los meses con mayor cantidad de postulaciones. // Ale
+- Ver a que areas se postean mayormente hombres y mujeres. // Axel
+- Grafico comparativo en el tiempo para la cantidad de postulaciones para los principales 5 rubros.
+- Para los usuarios que tienen Universitario en curso, ver en promedio la cantidad de postulaciones segun trabajo part-time o full-time // ARIEL	
