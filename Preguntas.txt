@@ -2,4 +2,7 @@
 Ideas para preguntas a responder en el TP1:
 
 
-- 
+- Top de cantidad de postulaciones por Usuario, para determinar si hay usuarios que se postulan a todo.
+- Grafico comparativo de la cantidad de publicaciones para los principales rubros. Tomar los 5 rubros con mayor cantidad de publicaciones  // FALTA LA FECHA DE PUBLICACION DEL AVISO
+- Grafico comparativo en el tiempo para la cantidad de postulaciones para los principales 5 rubros
+- Para los usuarios que tienen Universitario en curso, ver en promedio la cantidad de postulaciones segun trabajo part-time o full-time
